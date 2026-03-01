@@ -762,21 +762,21 @@ const { chromium } = require("playwright");
 
   try {
     const PREFIXES = [
-    "J2Z",
-    "LQX",
-    "J3L",
-    "V1N",
-    "ZZB",
-    "J46",
-    "Z88",
-    "JV9",
-    "V29",
-    "J4T",
-    "MHV",
-    "YN1",
-    "LRJ",
-    "Q9G",
-    "SQQ"
+    "US2",
+    "PRR",
+    "NQV",
+    "P7Z",
+    "ZBA",
+    "GTJ",
+    "TAW",
+    "T9W",
+    "UVJ",
+    "UB6",
+    "K6A",
+    "TBH",
+    "P8L",
+    "NRG",
+    "W1X"
 ];
 
     const state = {};
